@@ -1,0 +1,27 @@
+.jumbotron{
+	background-image: url(image/background.JPG) ;
+	background-size: cover;
+	height: 100%;
+	background-position: center;
+  background-repeat: no-repeat;
+
+}
+body, html{
+	height: 100%;
+}
+.logo{
+	width: : 75px;
+	height: 75px;
+}
+.header{
+	padding: 40px 70px;
+
+}
+#content{
+	color: white;
+	text-align: center;
+	padding: 30px;
+}
+.button{
+	text-align: center;
+}
